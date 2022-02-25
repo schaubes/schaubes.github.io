@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "short_name": "portfolio",
-  "description": "Hey there, I'm @schaubes aka Stephan Schauberger. Let me tell you a little bit about myself.",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.328384.png",
