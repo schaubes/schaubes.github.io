@@ -1,0 +1,1 @@
+export default {data:{},state:{"$scolor-mode":{preference:"light",value:"system",unknown:true,forced:false}},prerenderedAt:1663666933609}
