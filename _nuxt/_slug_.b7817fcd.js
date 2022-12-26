@@ -1,1 +1,0 @@
-import{o,k as s,I as t,D as c,E as _,J as l,K as r,L as i,B as u}from"./entry.b3988e14.js";const d={class:"container"};function f(p,h){const n=r,a=i;return o(),s("div",d,[t(a,null,{default:c(({doc:e})=>[_("h1",null,l(e.title),1),t(n,{value:e},null,8,["value"])]),_:1})])}const m={},B=u(m,[["render",f]]);export{B as default};
