@@ -1,1 +1,0 @@
-import{u as t}from"./composables.9d57a56b.js";import{o as a,E as s,K as o}from"./entry.d8072679.js";const n={id:"layout"},m={__name:"default",setup(r){return t({titleTemplate:"%s | @schaubes",meta:[{name:"description",content:"My amazing site."}]}),(e,c)=>(a(),s("div",n,[o(e.$slots,"default")]))}};export{m as default};
