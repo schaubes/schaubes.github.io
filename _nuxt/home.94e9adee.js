@@ -1,1 +1,0 @@
-import{u as t}from"./composables.db932526.js";import{o as a,E as o,F as s,K as n}from"./entry.c98ed50c.js";const _={id:"homeLayout"},l={__name:"home",setup(m){return t({titleTemplate:"%s </schaubes>",meta:[{name:"description",content:"My amazing site."}]}),(e,r)=>(a(),o("div",_,[s("main",null,[n(e.$slots,"default")])]))}};export{l as default};
