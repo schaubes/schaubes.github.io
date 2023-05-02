@@ -1,0 +1,1 @@
+import{k as t,v as s,l as a,S as o,r as n,o as _}from"./entry.8b584669.js";const c={id:"homeLayout"},d={__name:"home",setup(r){return s({titleTemplate:"%s </schaubes>",meta:[{name:"description",content:"My amazing site."}]}),(e,l)=>(_(),a("div",c,[o("main",null,[n(e.$slots,"default",{},void 0,!0)])]))}},i=t(d,[["__scopeId","data-v-b54b9de0"]]);export{i as default};
