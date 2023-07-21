@@ -1,0 +1,1 @@
+import{_ as t,u as a,o as s,c as o,a as n,n as _}from"./entry.bd4caa63.js";const c={id:"homeLayout"},d={__name:"home",setup(r){return a({titleTemplate:"%s </schaubes>",meta:[{name:"description",content:"My amazing site."}]}),(e,m)=>(s(),o("div",c,[n("main",null,[_(e.$slots,"default",{},void 0,!0)])]))}},i=t(d,[["__scopeId","data-v-b54b9de0"]]);export{i as default};
