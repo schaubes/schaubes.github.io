@@ -1,0 +1,5 @@
+# START nuxt-simple-robots (indexable)
+User-agent: *
+
+Sitemap: https://schaubes.dev/sitemap_index.xml
+# END nuxt-simple-robots
