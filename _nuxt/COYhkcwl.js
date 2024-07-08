@@ -1,0 +1,1 @@
+import{W as f,X as l}from"./DZ5GFSWv.js";const t={de:"/blog/",en:"/en/blog/"},n=[[{base:t.de,slug:"erster-post"},{base:t.en,slug:"first-post"}]],p=f((r,b)=>{for(const o of n)for(const s of o)for(const e of o.filter(a=>a.base!==s.base))if(r.path===e.base+s.slug)return l(e.base+e.slug,{redirectCode:200,replace:!0})});export{p as default};

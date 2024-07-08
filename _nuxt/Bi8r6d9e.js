@@ -1,1 +1,0 @@
-import{d as a,o,f as r,Q as l,K as n,_ as p}from"./D5RTqiL1.js";const c=a({__name:"CAlert",props:["type"],setup(t){const e=t;return(s,_)=>(o(),r("div",{class:n(["alert",[e.type?"alert-"+e.type:""]]),role:"alert"},[l(s.$slots,"default",{},void 0,!0)],2))}}),f=p(c,[["__scopeId","data-v-22375631"]]);export{f as default};
