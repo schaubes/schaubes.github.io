@@ -1,0 +1,1 @@
+import{_ as a}from"./8Yl3lsLN.js";import{d as c,o as e,Q as n,_}from"./C-B_6c_U.js";const r=c({__name:"CImage",props:["src","alt"],setup(o){const t=o;return(p,m)=>{const s=a;return e(),n(s,{src:t.src,alt:t.alt},null,8,["src","alt"])}}}),u=_(r,[["__scopeId","data-v-d9f63364"]]);export{u as default};

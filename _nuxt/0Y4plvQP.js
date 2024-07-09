@@ -1,0 +1,1 @@
+import t from"./Bybokv9C.js";import{d as _,o as c,Q as r,_ as a}from"./C-B_6c_U.js";const s=_({__name:"CommonRenderer",props:["value"],setup(e){const o=e;return(p,m)=>{const n=t;return c(),r(n,{value:o.value},null,8,["value"])}}}),d=a(s,[["__scopeId","data-v-3452474c"]]);export{d as _};
