@@ -1,0 +1,1 @@
+import{d as c,G as t,o as r,x as s}from"./DXvDEeQm.js";const _=c({__name:"CIcon",props:{name:{type:String,required:!0}},setup(n){const o=n;return(i,a)=>{const e=t("iconify-icon");return r(),s(e,{class:"icon",icon:o.name},null,8,["icon"])}}});export{_};
