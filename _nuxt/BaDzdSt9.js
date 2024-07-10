@@ -1,0 +1,1 @@
+import{d as t,e as o,f as a,o as d,p as c,q as _,g as s,_ as p}from"./DUiCuUqr.js";const n=e=>(c("data-v-d6f3e40d"),e=e(),_(),e),i={class:"page page-dev"},r=n(()=>s("div",{class:"centered"},[s("h1",null,"Dev")],-1)),l=[r],f=t({__name:"index",setup(e){return o({title:"Dev"}),(h,u)=>(d(),a("div",i,l))}}),m=p(f,[["__scopeId","data-v-d6f3e40d"]]);export{m as default};
