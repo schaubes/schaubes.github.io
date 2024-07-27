@@ -1,0 +1,1 @@
+import{d as c,e as a,f as t,o,p as d,q as _,g as s,_ as p}from"./DQyYzcl7.js";const n=e=>(d("data-v-08ac5d6c"),e=e(),_(),e),i={class:"page page-music"},r=n(()=>s("div",{class:"centered"},[s("h1",null,"Music")],-1)),u=[r],l=c({__name:"index",setup(e){return a({title:"Music"}),(h,m)=>(o(),t("div",i,u))}}),x=p(l,[["__scopeId","data-v-08ac5d6c"]]);export{x as default};
