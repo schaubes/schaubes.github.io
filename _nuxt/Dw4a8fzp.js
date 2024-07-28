@@ -1,1 +1,0 @@
-import{y as c,z as f}from"./DQyYzcl7.js";const s={de:"/projekte/",en:"/en/projects/"},p=[[{base:s.de,slug:"erstes-projekt"},{base:s.en,slug:"first-project"}]],d=c((r,n)=>{for(const t of p)for(const o of t)for(const e of t.filter(a=>a.base!==o.base))if(r.path===e.base+o.slug)return f(e.base+e.slug,{redirectCode:200,replace:!0})});export{d as default};
