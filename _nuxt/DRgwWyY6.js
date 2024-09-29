@@ -1,1 +1,0 @@
-import{d as t,o as a,f as r,t as s,B as n}from"./BgU5lVQ5.js";const d=t({__name:"CBadge",props:["text","color","round"],setup(e){const o=e;return(c,l)=>(a(),r("span",{class:n(["badge",[o.color?"text-bg-"+o.color:"",o.round??"rounded-pill"]])},s(o.text),3))}});export{d as default};
