@@ -1,0 +1,1 @@
+import{d as o,o as s,f as t,y as n}from"./DaVew__k.js";const a={class:"row my-5 align-items-center"},_=o({__name:"CCols",setup(r){return(e,c)=>(s(),t("div",a,[n(e.$slots,"default")]))}});export{_ as default};

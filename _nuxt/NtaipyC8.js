@@ -1,0 +1,1 @@
+import{d as c,c as t,C as i,o as l,f as m,t as p,h as a}from"./DaVew__k.js";const u=["href"],h=c({__name:"CMail",props:["to","text"],setup(n){const e=n,s=t(()=>e.text??o.value),o=t(()=>e.to??i.email),r=t(()=>"mailto:"+o.value);return(f,_)=>(l(),m("a",{href:a(r)},p(a(s)),9,u))}});export{h as default};
