@@ -1,0 +1,1 @@
+import{d as t,e as a,o,f as d,g as s,_ as n}from"./D2ak7Q2V.js";const _={class:"page page-dev"},c=t({__name:"index",setup(r){return a({title:"Dev"}),(p,e)=>(o(),d("div",_,e[0]||(e[0]=[s("div",{class:"centered"},[s("h1",null,"Dev")],-1)])))}}),l=n(c,[["__scopeId","data-v-d6f3e40d"]]);export{l as default};
