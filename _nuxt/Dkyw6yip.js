@@ -1,0 +1,1 @@
+import{d as s,o as t,f as c,g as r,_ as a}from"./EB9WySEF.js";const n={controls:""},_=["src"],d=s({__name:"CVideo",props:["src","alt"],setup(e){const o=e;return(p,i)=>(t(),c("video",n,[r("source",{src:o.src},null,8,_)]))}}),f=a(d,[["__scopeId","data-v-50755a91"]]);export{f as default};
