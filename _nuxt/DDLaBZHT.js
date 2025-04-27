@@ -1,0 +1,1 @@
+import{d as o,c as t,o as n,L as s,_ as a}from"./DwRx5_27.js";const c=o({__name:"CSection",setup(r){return(e,_)=>(n(),t("section",null,[s(e.$slots,"default",{},void 0,!0)]))}}),p=a(c,[["__scopeId","data-v-30a47b28"]]);export{p as default};

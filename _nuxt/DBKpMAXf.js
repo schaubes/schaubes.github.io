@@ -1,0 +1,1 @@
+import{d as a,c as o,o as r,L as l,M as n,_ as p}from"./DwRx5_27.js";const c=a({__name:"CAlert",props:["type"],setup(t){const e=t;return(s,_)=>(r(),o("div",{class:n(["alert",[e.type?"alert-"+e.type:""]]),role:"alert"},[l(s.$slots,"default",{},void 0,!0)],2))}}),m=p(c,[["__scopeId","data-v-22375631"]]);export{m as default};

@@ -1,1 +1,0 @@
-import{d as t,c as n,o as a,f as i,y as l,z as c,h as p}from"./C0qQy3Vn.js";const f=t({__name:"CCol",props:{size:{type:[String,Number],required:!0}},setup(r){const e=r,o=n(()=>typeof e.size=="number"?[`col-${e.size}`]:e.size.split(" ").map(s=>`col-${s}`)||[]);return(s,u)=>(a(),i("div",{class:c(p(o).join(" "))},[l(s.$slots,"default")],2))}});export{f as default};

@@ -1,0 +1,1 @@
+import{d as t,b as a,c as o,e as s,o as d,_ as n}from"./DwRx5_27.js";const c={class:"page page-dev"},_=t({__name:"index",setup(r){return a({title:"Dev"}),(p,e)=>(d(),o("div",c,e[0]||(e[0]=[s("div",{class:"centered"},[s("h1",null,"Dev")],-1)])))}}),l=n(_,[["__scopeId","data-v-d6f3e40d"]]);export{l as default};

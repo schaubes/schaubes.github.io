@@ -1,0 +1,1 @@
+import{d as a,u as t,c as o,e as n,l as s,o as c,ar as _,_ as m}from"./DwRx5_27.js";const l={class:"layout layout-minimal",id:"layout"},i=a({__name:"minimal",setup(r){const{t:u}=t();return(p,d)=>{const e=_;return c(),o("div",l,[n("main",null,[s(e)])])}}}),x=m(i,[["__scopeId","data-v-86b000cf"]]);export{x as default};
