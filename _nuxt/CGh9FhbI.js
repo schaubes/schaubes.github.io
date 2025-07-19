@@ -1,0 +1,1 @@
+import{d as t,c as a,o as s,t as n,M as r}from"./CpQiWzXD.js";const c=t({__name:"CBadge",props:["text","color","round"],setup(o){const e=o;return(l,p)=>(s(),a("span",{class:r(["badge",[e.color?"text-bg-"+e.color:"",e.round??"rounded-pill"]])},n(e.text),3))}}),i=Object.assign(c,{__name:"CBadge"});export{i as default};

@@ -1,0 +1,1 @@
+import{d as t,c as o,o as n,L as s,_ as a}from"./CpQiWzXD.js";const c=t({__name:"CSection",setup(_){return(e,r)=>(n(),o("section",null,[s(e.$slots,"default",{},void 0,!0)]))}}),l=Object.assign(a(c,[["__scopeId","data-v-30a47b28"]]),{__name:"CSection"});export{l as default};

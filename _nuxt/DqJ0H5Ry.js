@@ -1,1 +1,0 @@
-import{_ as a}from"./CxtWgIDT.js";import{d as o,K as n,o as s,m as f,L as i}from"./CGgqm_Kh.js";const m=o({__name:"ProseA",props:{href:{type:String,default:""},target:{type:String,default:void 0,required:!1}},setup(t){return(e,c)=>{const r=a;return s(),n(r,{to:t.href,target:t.target},{default:f(()=>[i(e.$slots,"default")]),_:3},8,["to","target"])}}});export{m as default};

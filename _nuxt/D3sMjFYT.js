@@ -1,0 +1,1 @@
+import{d as a,b as t,c,e as s,o,_ as n}from"./CpQiWzXD.js";const d={class:"page page-music"},_=a({__name:"index",setup(i){return t({title:"Music"}),(r,e)=>(o(),c("div",d,e[0]||(e[0]=[s("div",{class:"centered"},[s("h1",null,"Music")],-1)])))}}),l=n(_,[["__scopeId","data-v-08ac5d6c"]]);export{l as default};

@@ -1,0 +1,1 @@
+import t from"./Cy5hV51H.js";import{d as s,K as c,o as r}from"./CpQiWzXD.js";const _=s({__name:"CIcon",props:{name:{type:String,required:!0},size:{type:String,required:!1,default:"1.25em"}},setup(n){const e=n;return(a,m)=>{const o=t;return r(),c(o,{class:"icon",name:e.name,size:e.size},null,8,["name","size"])}}}),u=Object.assign(_,{__name:"CIcon"});export{u as _};

@@ -1,0 +1,1 @@
+import{a3 as f,p as l}from"./CpQiWzXD.js";const t={de:"/blog/",en:"/en/blog/"},n=[[{base:t.de,slug:"erster-post"},{base:t.en,slug:"first-post"}]],g=f((a,b)=>{for(const s of n)for(const o of s)for(const e of s.filter(r=>r.base!==o.base))if(a.path===e.base+o.slug)return l(e.base+e.slug,{replace:!0})});export{g as default};

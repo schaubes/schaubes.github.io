@@ -1,0 +1,1 @@
+import{d as c,i as t,aI as i,c as l,o as m,t as p,f as o}from"./CpQiWzXD.js";const u=["href"],_=c({__name:"CMail",props:["to","text"],setup(n){const e=n,s=t(()=>e.text??a.value),a=t(()=>e.to??i.email),r=t(()=>"mailto:"+a.value);return(f,d)=>(m(),l("a",{href:o(r)},p(o(s)),9,u))}}),C=Object.assign(_,{__name:"CMail"});export{C as default};
