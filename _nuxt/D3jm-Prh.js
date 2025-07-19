@@ -1,1 +1,0 @@
-import{d as c,i as t,aG as i,c as l,o as m,t as p,f as a}from"./DwRx5_27.js";const u=["href"],x=c({__name:"CMail",props:["to","text"],setup(n){const e=n,s=t(()=>e.text??o.value),o=t(()=>e.to??i.email),r=t(()=>"mailto:"+o.value);return(f,_)=>(m(),l("a",{href:a(r)},p(a(s)),9,u))}});export{x as default};

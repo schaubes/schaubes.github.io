@@ -1,0 +1,1 @@
+import t from"./CSiNS1SY.js";import{d as r,K as s,o as c}from"./CGgqm_Kh.js";const _=r({__name:"CIcon",props:{name:{type:String,required:!0},size:{type:String,required:!1,default:"1.25em"}},setup(n){const e=n;return(a,m)=>{const o=t;return c(),s(o,{class:"icon",name:e.name,size:e.size},null,8,["name","size"])}}});export{_};

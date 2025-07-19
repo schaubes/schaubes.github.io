@@ -1,1 +1,0 @@
-import{$ as p,p as c}from"./DwRx5_27.js";const o={de:"/projekte/",en:"/en/projects/"},f=[[{base:o.de,slug:"erstes-projekt"},{base:o.en,slug:"first-project"}]],j=p((r,n)=>{for(const s of f)for(const t of s)for(const e of s.filter(a=>a.base!==t.base))if(r.path===e.base+t.slug)return c(e.base+e.slug,{replace:!0})});export{j as default};

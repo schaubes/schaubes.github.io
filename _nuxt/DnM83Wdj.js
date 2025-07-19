@@ -1,0 +1,1 @@
+import{d as t,c as a,o as r,t as s,M as n}from"./CGgqm_Kh.js";const d=t({__name:"CBadge",props:["text","color","round"],setup(e){const o=e;return(c,l)=>(r(),a("span",{class:n(["badge",[o.color?"text-bg-"+o.color:"",o.round??"rounded-pill"]])},s(o.text),3))}});export{d as default};
