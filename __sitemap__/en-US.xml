@@ -1,84 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://schaubes.dev/en</loc>
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/en" />
+        <loc>https://schaubes.dev/</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/de" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://schaubes.dev/en" />
     </url>
     <url>
-        <loc>https://schaubes.dev/en/blog</loc>
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/blog" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/en/blog" />
+        <loc>https://schaubes.dev/blog</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/blog" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/de/blog" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/blog" />
-        <xhtml:link rel="alternate" hreflang="de" href="https://schaubes.dev/blog" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://schaubes.dev/en/blog" />
-        <image:image>
-            <image:loc>https://schaubes.dev/media/sample.jpg</image:loc>
-        </image:image>
     </url>
     <url>
-        <loc>https://schaubes.dev/en/dev</loc>
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/dev" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/en/dev" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/dev" />
-        <xhtml:link rel="alternate" hreflang="de" href="https://schaubes.dev/dev" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://schaubes.dev/en/dev" />
+        <loc>https://schaubes.dev/gaming</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/gaming" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/de/spiele" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/gaming" />
     </url>
     <url>
-        <loc>https://schaubes.dev/en/legal-notice</loc>
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/impressum" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/en/legal-notice" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/impressum" />
-        <xhtml:link rel="alternate" hreflang="de" href="https://schaubes.dev/impressum" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://schaubes.dev/en/legal-notice" />
+        <loc>https://schaubes.dev/projects</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/projects" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/de/projekte" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/projects" />
     </url>
     <url>
-        <loc>https://schaubes.dev/en/music</loc>
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/music" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/en/music" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/music" />
-        <xhtml:link rel="alternate" hreflang="de" href="https://schaubes.dev/music" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://schaubes.dev/en/music" />
-    </url>
-    <url>
-        <loc>https://schaubes.dev/en/privacy</loc>
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/datenschutz" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/en/privacy" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/datenschutz" />
-        <xhtml:link rel="alternate" hreflang="de" href="https://schaubes.dev/datenschutz" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://schaubes.dev/en/privacy" />
-    </url>
-    <url>
-        <loc>https://schaubes.dev/en/projects</loc>
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/projekte" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/en/projects" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/projekte" />
-        <xhtml:link rel="alternate" hreflang="de" href="https://schaubes.dev/projekte" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://schaubes.dev/en/projects" />
-        <image:image>
-            <image:loc>https://schaubes.dev/media/sample.jpg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://schaubes.dev/en/blog/first-post</loc>
-        <image:image>
-            <image:loc>https://schaubes.dev/_ipx/s_48x48/logo.png</image:loc>
-        </image:image>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/blog/first-post" />
-        <xhtml:link rel="alternate" hreflang="de" href="https://schaubes.dev/blog/first-post" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/blog/first-post" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://schaubes.dev/en/blog/first-post" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/en/blog/first-post" />
-    </url>
-    <url>
-        <loc>https://schaubes.dev/en/projects/first-project</loc>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/projekte/first-project" />
-        <xhtml:link rel="alternate" hreflang="de" href="https://schaubes.dev/projekte/first-project" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/projekte/first-project" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://schaubes.dev/en/projects/first-project" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/en/projects/first-project" />
+        <loc>https://schaubes.dev/status</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/status" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/de/status" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/status" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.3 at 2025-07-19T12:56:25.502Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.2.0 at 2026-06-20T18:52:03.342Z -->
