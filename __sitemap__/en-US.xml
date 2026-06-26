@@ -13,10 +13,28 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/blog" />
     </url>
     <url>
+        <loc>https://schaubes.dev/contact</loc>
+        <xhtml:link rel="alternate" href="https://schaubes.dev/contact" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://schaubes.dev/contact" hreflang="en-US" />
+    </url>
+    <url>
         <loc>https://schaubes.dev/gaming</loc>
         <xhtml:link rel="alternate" hreflang="en-US" href="https://schaubes.dev/gaming" />
         <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/de/spiele" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/gaming" />
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/logo.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://schaubes.dev/legal-notice</loc>
+        <xhtml:link rel="alternate" href="https://schaubes.dev/legal-notice" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://schaubes.dev/legal-notice" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://schaubes.dev/privacy</loc>
+        <xhtml:link rel="alternate" href="https://schaubes.dev/privacy" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://schaubes.dev/privacy" hreflang="en-US" />
     </url>
     <url>
         <loc>https://schaubes.dev/projects</loc>
@@ -30,5 +48,165 @@
         <xhtml:link rel="alternate" hreflang="de-DE" href="https://schaubes.dev/de/status" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://schaubes.dev/status" />
     </url>
+    <url>
+        <loc>https://schaubes.dev/gaming/stardew-valley</loc>
+        <xhtml:link rel="alternate" href="https://schaubes.dev/gaming/stardew-valley" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://schaubes.dev/gaming/stardew-valley" hreflang="en-US" />
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/logo.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://schaubes.dev/gaming/stardew-valley/market</loc>
+        <xhtml:link rel="alternate" href="https://schaubes.dev/gaming/stardew-valley/market" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://schaubes.dev/gaming/stardew-valley/market" hreflang="en-US" />
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Ancient_Fruit.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/Season_Spring.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/Season_Summer.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/Season_Fall.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/Season_Winter.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/Gold.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Hops.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Starfruit.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Wheat.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Cranberries.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Sweet_Gem_Berry.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Blueberry.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Strawberry.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Corn.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Red_Cabbage.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Grape.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Melon.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Pumpkin.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Cactus_Fruit.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Rhubarb.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Carrot.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Artichoke.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Hot_Pepper.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Bok_Choy.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Beet.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Pineapple.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Tomato.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Amaranth.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Eggplant.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Kale.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Garlic.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Radish.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Taro_Root.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Green_Bean.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Cauliflower.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Potato.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Yam.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Parsnip.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Broccoli.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Summer_Squash.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Powdermelon.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Unmilled_Rice.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Fairy_Rose.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Poppy.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Summer_Spangle.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Blue_Jazz.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Tulip.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Sunflower.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://schaubes.dev/media/gaming/stardewvalley/crops/Coffee_Bean.png</image:loc>
+        </image:image>
+    </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.2.1 at 2026-06-26T15:31:02.184Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.2.1 at 2026-06-26T15:57:39.463Z -->
