@@ -1,0 +1,1 @@
+import{u as i,n as r,p as g,q as t}from"./CdkSF8ZK.js";import{u as p,q as y}from"./BY2vP-vc.js";async function v(s,n={}){const{locale:o}=i(),{slug:e,slugConfig:u}=p("pages",s,n),a=t(()=>`content_${o.value}`),l=t(()=>`${a.value}_${e.value.replaceAll("/","-")}`),{data:c}=await r(l,async()=>await y(a.value).path(g(u.value.key)).first(),{watch:[a,e]});return{page:c}}export{v as u};

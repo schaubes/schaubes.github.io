@@ -1,0 +1,1 @@
+import{d as a,c as s,b as t,bn as o,I as c,o as r}from"./CdkSF8ZK.js";const l=a({__name:"minimal",setup(_){return(e,m)=>{const n=o;return r(),s(n,{class:"min-h-screen"},{default:t(()=>[c(e.$slots,"default")]),_:3})}}});export{l as default};
