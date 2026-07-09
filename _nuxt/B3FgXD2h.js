@@ -1,1 +1,0 @@
-import{d as n,c as s,b as t,bp as o,J as c,o as r}from"./BYX2B5aQ.js";const l=n({__name:"minimal",setup(_){return(e,m)=>{const a=o;return r(),s(a,{class:"min-h-screen"},{default:t(()=>[c(e.$slots,"default")]),_:3})}}});export{l as default};
