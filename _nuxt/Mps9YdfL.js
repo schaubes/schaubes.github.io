@@ -1,0 +1,1 @@
+var e=[{id:`blog`,labelKey:`feed.filters.blog`},{id:`projects`,labelKey:`feed.filters.projects`},{id:`gaming`,labelKey:`feed.filters.gaming`},{id:`music`,labelKey:`feed.filters.music`},{id:`health`,labelKey:`feed.filters.health`},{id:`finance`,labelKey:`feed.filters.finance`}],t=[`blog`,`projects`,`music`];export{e as n,t};

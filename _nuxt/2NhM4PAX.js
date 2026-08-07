@@ -1,0 +1,1 @@
+import{k as e,mt as t,qt as n,v as r,xt as i}from"./BKdLzFmX.js";import{t as a}from"./DraFV2Ny.js";var o=e({__name:`minimal`,setup(e){return(e,o)=>{let s=a;return t(),r(s,{class:`min-h-screen`},{default:n(()=>[i(e.$slots,`default`)]),_:3})}}});export{o as default};
