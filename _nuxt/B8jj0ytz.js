@@ -1,0 +1,1 @@
+import{k as e,mt as t,qt as n,v as r,xt as i}from"./B8D2lM98.js";import{n as a}from"#entry";var o=e({__name:`minimal`,setup(e){return(e,o)=>{let s=a;return t(),r(s,{class:`min-h-screen`},{default:n(()=>[i(e.$slots,`default`)]),_:3})}}});export{o as default};
