@@ -1,0 +1,30 @@
+# schaubes.dev
+
+Canonical Origin: https://schaubes.dev/
+
+## LLM Resources
+
+- [Full Content](https://schaubes.dev/llms-full.txt): Complete page content in markdown format.
+- [en-US.xml](https://schaubes.dev/__sitemap__/en-US.xml): XML sitemap for search engines and crawlers.
+- [de-DE.xml](https://schaubes.dev/__sitemap__/de-DE.xml): XML sitemap for search engines and crawlers.
+- [robots.txt](https://schaubes.dev/robots.txt): Crawler rules and permissions.
+
+## Available Languages on Website
+
+- [English (en)](https://schaubes.dev/index.md): 12 pages; content included below.
+- [Deutsch (de)](https://schaubes.dev/de.md): 12 pages; visit this language for content.
+
+## Pages
+
+- [/](https://schaubes.dev/index.md)
+- [/about](https://schaubes.dev/about.md)
+- [/contact](https://schaubes.dev/contact.md)
+- [/finance](https://schaubes.dev/finance.md)
+- [/finance/investment-calculator](https://schaubes.dev/finance/investment-calculator.md)
+- [/gaming](https://schaubes.dev/gaming.md)
+- [/gaming/stardew-valley-market](https://schaubes.dev/gaming/stardew-valley-market.md)
+- [/health](https://schaubes.dev/health.md)
+- [/health/calorie-bmi-calculator](https://schaubes.dev/health/calorie-bmi-calculator.md)
+- [/legal-notice](https://schaubes.dev/legal-notice.md)
+- [/privacy](https://schaubes.dev/privacy.md)
+- [/status](https://schaubes.dev/status.md)

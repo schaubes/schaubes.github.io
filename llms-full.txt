@@ -1,0 +1,2110 @@
+# schaubes.dev
+
+Canonical Origin: https://schaubes.dev/
+
+## LLM Resources
+
+- [Full Content](https://schaubes.dev/llms-full.txt): Complete page content in markdown format.
+
+---
+
+- **Page:** Welcome – schaubes.dev
+- **Source:** https://schaubes.dev/
+- **Description:** The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.
+
+# **Welcome**
+
+Thoughts, projects, gaming & music
+
+The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.
+
+[All](https://schaubes.dev/) [Gaming](https://schaubes.dev/gaming) [Health](https://schaubes.dev/health) [Finance](https://schaubes.dev/finance)
+
+Investment CalculatorFinance · Aug 6, 2026
+
+Project how a one-time investment, a monthly savings plan, or both grow over time — after fees, taxes, and inflation.
+
+[Investment CalculatorFinance · Aug 6, 2026](https://schaubes.dev/finance/investment-calculator)
+
+Calorie & BMI CalculatorHealth · Jul 9, 2026
+
+Estimate your Body Mass Index and daily calorie needs.
+
+[Calorie & BMI CalculatorHealth · Jul 9, 2026](https://schaubes.dev/health/calorie-bmi-calculator)
+
+![Stardew Market](https://schaubes.dev/media/gaming/stardew-valley/logo.png)
+
+Stardew MarketGaming · Jun 26, 2026
+
+Plan your crops and animals for the best profit, and find out what's biting where.
+
+[Stardew MarketGaming · Jun 26, 2026](https://schaubes.dev/gaming/stardew-valley-market)
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"en-US","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"workTranslation":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev#webpage","@type":"WebPage","description":"The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.","name":"Welcome","url":"https://schaubes.dev","about":{"@id":"https://schaubes.dev/#identity"},"isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Welcome – schaubes.dev
+- **Source:** https://schaubes.dev/health
+- **Description:** The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.
+
+# **Welcome**
+
+Thoughts, projects, gaming & music
+
+The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.
+
+[All](https://schaubes.dev/) [Gaming](https://schaubes.dev/gaming) [Health](https://schaubes.dev/health) [Finance](https://schaubes.dev/finance)
+
+Calorie & BMI CalculatorHealth · Jul 9, 2026
+
+Estimate your Body Mass Index and daily calorie needs.
+
+[Calorie & BMI CalculatorHealth · Jul 9, 2026](https://schaubes.dev/health/calorie-bmi-calculator)
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"en-US","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"workTranslation":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/health#webpage","@type":"WebPage","description":"The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.","name":"Welcome","url":"https://schaubes.dev/health","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/health"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Stardew Market – schaubes.dev
+- **Source:** https://schaubes.dev/gaming/stardew-valley-market
+- **Description:** Plan your crops and animals for the best profit, and find out what's biting where.
+
+# **Stardew Market**
+
+Plan your crops and animals for the best profit, and find out what's biting where.
+
+Processed entirely in your browser — your save file is never uploaded anywhere.
+
+##### **Season**
+
+##### **Day**
+
+##### **Year**
+
+##### **Tiles**
+
+**Average per tile**
+
+##### **Fertilizer**
+
+##### **Quality**
+
+##### **Options**
+
+**Greenhouse**
+
+Crops grow year-round here, ignoring the season selected above.
+
+**Reuse crops for seeds**
+
+Uses the Seed Maker to turn part of the harvest into seeds for replanting. Only applies to crops that don't regrow.
+
+**Got seeds**
+
+**Only one harvest**
+
+##### **Strategy**
+
+##### **Filter**
+
+**Hide Ancient Fruit**
+
+##### **Sorting**
+
+**Ascending**
+
+![Ancient Fruit](https://schaubes.dev/media/gaming/stardew-valley/crops/Ancient_Fruit.png)
+
+##### **Ancient Fruit **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **13,200 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 171.43 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Hops](https://schaubes.dev/media/gaming/stardew-valley/crops/Hops.png)
+
+##### **Hops **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **5,040 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 186.67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 8400%
+
+![Starfruit](https://schaubes.dev/media/gaming/stardew-valley/crops/Starfruit.png)
+
+##### **Starfruit **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **3,700 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 142.31 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 463%
+
+![Wheat](https://schaubes.dev/media/gaming/stardew-valley/crops/Wheat.png)
+
+##### **Wheat **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **2,470 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 47.5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1900%
+
+![Cranberries](https://schaubes.dev/media/gaming/stardew-valley/crops/Cranberries.png)
+
+##### **Cranberries **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **2,010 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 74.44 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 838%
+
+![Sweet Gem Berry](https://schaubes.dev/media/gaming/stardew-valley/crops/Sweet_Gem_Berry.png)
+
+##### **Sweet Gem Berry **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Crop
+
+**Profit: **2,000 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 83.33 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 200%
+
+![Pineapple](https://schaubes.dev/media/gaming/stardew-valley/crops/Pineapple.png)
+
+##### **Pineapple **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **1,800 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 85.71 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Blueberry](https://schaubes.dev/media/gaming/stardew-valley/crops/Blueberry.png)
+
+##### **Blueberry **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **1,720 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 68.8 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 2150%
+
+![Strawberry](https://schaubes.dev/media/gaming/stardew-valley/crops/Strawberry.png)
+
+##### **Strawberry **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **1,700 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 70.83 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1700%
+
+![Corn](https://schaubes.dev/media/gaming/stardew-valley/crops/Corn.png)
+
+##### **Corn **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **1,500 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 27.78 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1000%
+
+![Red Cabbage](https://schaubes.dev/media/gaming/stardew-valley/crops/Red_Cabbage.png)
+
+##### **Red Cabbage ****Available from Year 2**
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **1,455 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 53.89 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 485%
+
+![Grape](https://schaubes.dev/media/gaming/stardew-valley/crops/Grape.png)
+
+##### **Grape **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **1,380 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 55.2 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 2300%
+
+![Melon](https://schaubes.dev/media/gaming/stardew-valley/crops/Melon.png)
+
+##### **Melon **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **1,340 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 55.83 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 838%
+
+![Pumpkin](https://schaubes.dev/media/gaming/stardew-valley/crops/Pumpkin.png)
+
+##### **Pumpkin **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **1,240 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 47.69 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 620%
+
+![Cactus Fruit](https://schaubes.dev/media/gaming/stardew-valley/crops/Cactus_Fruit.png)
+
+##### **Cactus Fruit **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **1,200 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 44.44 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 800%
+
+![Rhubarb](https://schaubes.dev/media/gaming/stardew-valley/crops/Rhubarb.png)
+
+##### **Rhubarb **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **1,120 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 43.08 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 560%
+
+![Summer Squash](https://schaubes.dev/media/gaming/stardew-valley/crops/Summer_Squash.png)
+
+##### **Summer Squash **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **1,120 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 41.48 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Carrot](https://schaubes.dev/media/gaming/stardew-valley/crops/Carrot.png)
+
+##### **Carrot **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **1,080 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 40 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Artichoke](https://schaubes.dev/media/gaming/stardew-valley/crops/Artichoke.png)
+
+##### **Artichoke ****Available from Year 2**
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **1,020 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 42.5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1133%
+
+![Hot Pepper](https://schaubes.dev/media/gaming/stardew-valley/crops/Hot_Pepper.png)
+
+##### **Hot Pepper **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **1,000 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 38.46 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 2500%
+
+![Bok Choy](https://schaubes.dev/media/gaming/stardew-valley/crops/Bok_Choy.png)
+
+##### **Bok Choy **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **960 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 40 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 320%
+
+![Broccoli](https://schaubes.dev/media/gaming/stardew-valley/crops/Broccoli.png)
+
+##### **Broccoli **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **950 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 39.58 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Beet](https://schaubes.dev/media/gaming/stardew-valley/crops/Beet.png)
+
+##### **Beet **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **920 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 38.33 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1150%
+
+![Tomato](https://schaubes.dev/media/gaming/stardew-valley/crops/Tomato.png)
+
+##### **Tomato **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **842.5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 31.2 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1685%
+
+![Amaranth](https://schaubes.dev/media/gaming/stardew-valley/crops/Amaranth.png)
+
+##### **Amaranth **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **840 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 40 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 400%
+
+![Eggplant](https://schaubes.dev/media/gaming/stardew-valley/crops/Eggplant.png)
+
+##### **Eggplant **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **830 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 33.2 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 4150%
+
+![Kale](https://schaubes.dev/media/gaming/stardew-valley/crops/Kale.png)
+
+##### **Kale **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **800 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 33.33 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 286%
+
+![Garlic](https://schaubes.dev/media/gaming/stardew-valley/crops/Garlic.png)
+
+##### **Garlic ****Available from Year 2**
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **780 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 32.5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 325%
+
+![Radish](https://schaubes.dev/media/gaming/stardew-valley/crops/Radish.png)
+
+##### **Radish **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **760 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 31.67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 475%
+
+![Taro Root](https://schaubes.dev/media/gaming/stardew-valley/crops/Taro_Root.png)
+
+##### **Taro Root **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **750 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 35.71 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Green Bean](https://schaubes.dev/media/gaming/stardew-valley/crops/Green_Bean.png)
+
+##### **Green Bean **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **720 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 28.8 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1200%
+
+![Cauliflower](https://schaubes.dev/media/gaming/stardew-valley/crops/Cauliflower.png)
+
+##### **Cauliflower **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **640 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 26.67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 400%
+
+![Potato](https://schaubes.dev/media/gaming/stardew-valley/crops/Potato.png)
+
+##### **Potato **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **640 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 26.67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 320%
+
+![Yam](https://schaubes.dev/media/gaming/stardew-valley/crops/Yam.png)
+
+##### **Yam **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **620 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 31 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 517%
+
+![Parsnip](https://schaubes.dev/media/gaming/stardew-valley/crops/Parsnip.png)
+
+##### **Parsnip **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **600 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 25 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 500%
+
+![Powdermelon](https://schaubes.dev/media/gaming/stardew-valley/crops/Powdermelon.png)
+
+##### **Powdermelon **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **540 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 25.71 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Unmilled Rice](https://schaubes.dev/media/gaming/stardew-valley/crops/Unmilled_Rice.png)
+
+##### **Unmilled Rice **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Jar
+
+**Profit: **280 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 11.67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 175%
+
+![Coffee Bean](https://schaubes.dev/media/gaming/stardew-valley/crops/Coffee_Bean.png)
+
+##### **Coffee Bean **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Keg
+
+**Profit: **260 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 4.81 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 10%
+
+![Fairy Rose](https://schaubes.dev/media/gaming/stardew-valley/crops/Fairy_Rose.png)
+
+##### **Fairy Rose **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Crop
+
+**Profit: **180 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 7.5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 45%
+
+![Poppy](https://schaubes.dev/media/gaming/stardew-valley/crops/Poppy.png)
+
+##### **Poppy **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Crop
+
+**Profit: **120 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 5.71 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 40%
+
+![Summer Spangle](https://schaubes.dev/media/gaming/stardew-valley/crops/Summer_Spangle.png)
+
+##### **Summer Spangle **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Crop
+
+**Profit: **120 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 80%
+
+![Blue Jazz](https://schaubes.dev/media/gaming/stardew-valley/crops/Blue_Jazz.png)
+
+##### **Blue Jazz **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Crop
+
+**Profit: **60 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 2.86 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 67%
+
+![Tulip](https://schaubes.dev/media/gaming/stardew-valley/crops/Tulip.png)
+
+##### **Tulip **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Crop
+
+**Profit: **40 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: 1.67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 50%
+
+![Sunflower](https://schaubes.dev/media/gaming/stardew-valley/crops/Sunflower.png)
+
+##### **Sunflower **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategy: Crop
+
+**Profit: **-720 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Profit / d: -15 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -60%
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"en-US","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"workTranslation":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/gaming/stardew-valley-market#webpage","@type":"WebPage","description":"Plan your crops and animals for the best profit, and find out what's biting where.","name":"Stardew Market","url":"https://schaubes.dev/gaming/stardew-valley-market","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/gaming/stardew-valley-market"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Investment Calculator – schaubes.dev
+- **Source:** https://schaubes.dev/finance/investment-calculator
+- **Description:** Project how a one-time investment, a monthly savings plan, or both grow over time — after fees, taxes, and inflation.
+
+# **Investment Calculator**
+
+Project how a one-time investment, a monthly savings plan, or both grow over time — after fees, taxes, and inflation.
+
+##### **Investment**
+
+**One-time investment**
+
+**Monthly investment**
+
+**Expected annual return**
+
+**Duration**
+
+##### **Fees & Taxes**
+
+**Buy fee**
+
+**Sell fee**
+
+**Capital gains tax**
+
+**Inflation**
+
+##### **Results**
+
+Final Value
+
+**€122,291**
+
+Net Gain **+€57,291**(88.1%)
+
+<dl>
+
+<dt>Portfolio Value</dt>
+<dd>€144,746</dd>
+
+<dt>− Sell Fee</dt>
+<dd>−€724</dd>
+
+<dt>− Tax</dt>
+<dd>−€21,731</dd>
+
+<dt>= Final Value</dt>
+<dd>€122,291</dd>
+
+</dl><dl>
+
+<dt>Total Invested</dt>
+<dd>€65,000</dd>
+
+<dt>Total Fees</dt>
+<dd>€1,699</dd>
+<dd>€975 buying + €724 selling</dd>
+
+<dt>Effective Annual Return</dt>
+<dd>5.5%</dd>
+
+<dt>Value in Today's Money</dt>
+<dd>€82,298</dd>
+
+</dl>
+
+##### **Growth Over Time**
+
+Portfolio value Invested
+
+€0€36K€72K€109K€145K048121620
+
+Years
+
+Estimates only, based on a constant average return. Real markets fluctuate, and this is not financial advice.
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"en-US","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"workTranslation":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/finance/investment-calculator#webpage","@type":"WebPage","description":"Project how a one-time investment, a monthly savings plan, or both grow over time — after fees, taxes, and inflation.","name":"Investment Calculator","url":"https://schaubes.dev/finance/investment-calculator","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/finance/investment-calculator"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Calorie &amp; BMI Calculator – schaubes.dev
+- **Source:** https://schaubes.dev/health/calorie-bmi-calculator
+- **Description:** Estimate your Body Mass Index and daily calorie needs.
+
+# **Calorie & BMI Calculator**
+
+Estimate your Body Mass Index and daily calorie needs.
+
+##### **Units**
+
+##### **Sex**
+
+##### **Age**
+
+##### **Height (cm) **
+
+##### **Weight (kg) **
+
+##### **Activity Level**
+
+##### **Results**
+
+BMI
+
+**24.5**
+
+Normal
+
+Body Mass Index — weight relative to height, used as a rough indicator of body fatness.
+
+Normal range is 18.5-24.9.
+
+BMR
+
+**1699 kcal**
+
+Basal Metabolic Rate — calories your body burns at rest just to sustain basic functions. Calculated using the Mifflin-St Jeor equation from your weight, height, age, and sex.
+
+Maintenance Calories (TDEE)
+
+**2633 kcal**
+
+Total Daily Energy Expenditure — estimated calories to maintain your current weight. Calculated by multiplying your BMR by an activity-level factor.
+
+##### **Macros**
+
+Protein
+
+**120 g**
+
+Builds and repairs muscle. Calculated from your bodyweight and activity level (1.2-2.0 g/kg/day), scaled down slightly for women to reflect a typically higher body-fat percentage relative to lean mass.
+
+Fat
+
+**82 g**
+
+Supports hormones and nutrient absorption. Takes a share of the calories left after protein, based on general dietary guidelines (around 20-35% of total calories).
+
+Carbs
+
+**353 g**
+
+Your body's main energy source. Takes the remaining calories left after protein and fat, based on general dietary guidelines (around 45-65% of total calories).
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"en-US","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"workTranslation":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/health/calorie-bmi-calculator#webpage","@type":"WebPage","description":"Estimate your Body Mass Index and daily calorie needs.","name":"Calorie & BMI Calculator","url":"https://schaubes.dev/health/calorie-bmi-calculator","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/health/calorie-bmi-calculator"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Welcome – schaubes.dev
+- **Source:** https://schaubes.dev/finance
+- **Description:** The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.
+
+# **Welcome**
+
+Thoughts, projects, gaming & music
+
+The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.
+
+[All](https://schaubes.dev/) [Gaming](https://schaubes.dev/gaming) [Health](https://schaubes.dev/health) [Finance](https://schaubes.dev/finance)
+
+Investment CalculatorFinance · Aug 6, 2026
+
+Project how a one-time investment, a monthly savings plan, or both grow over time — after fees, taxes, and inflation.
+
+[Investment CalculatorFinance · Aug 6, 2026](https://schaubes.dev/finance/investment-calculator)
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"en-US","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"workTranslation":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/finance#webpage","@type":"WebPage","description":"The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.","name":"Welcome","url":"https://schaubes.dev/finance","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/finance"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** About Me
+- **Source:** https://schaubes.dev/about
+- **Description:** A few words about Stephan Schauberger.
+
+# About Me
+
+I'm Stephan Schauberger — this site is where I share thoughts, projects, gaming tools, and eventually music.
+
+---
+
+- **Page:** Contact
+- **Source:** https://schaubes.dev/contact
+- **Description:** Get in touch by email.
+
+##### How to reach us
+
+Website owner: <c-config var="site.owner">
+
+
+
+</c-config>
+
+<br />
+
+
+Email: <c-contact type="email">
+
+
+
+</c-contact>
+
+---
+
+- **Page:** Legal Notice
+- **Source:** https://schaubes.dev/legal-notice
+- **Description:** Legal information for this website.
+
+This is the Legal Notice of <c-config var="site.name">
+
+
+
+</c-config>
+
+.
+
+---
+
+- **Page:** Welcome – schaubes.dev
+- **Source:** https://schaubes.dev/gaming
+- **Description:** The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.
+
+# **Welcome**
+
+Thoughts, projects, gaming & music
+
+The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.
+
+[All](https://schaubes.dev/) [Gaming](https://schaubes.dev/gaming) [Health](https://schaubes.dev/health) [Finance](https://schaubes.dev/finance)
+
+![Stardew Market](https://schaubes.dev/media/gaming/stardew-valley/logo.png)
+
+Stardew MarketGaming · Jun 26, 2026
+
+Plan your crops and animals for the best profit, and find out what's biting where.
+
+[Stardew MarketGaming · Jun 26, 2026](https://schaubes.dev/gaming/stardew-valley-market)
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"en-US","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"workTranslation":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/gaming#webpage","@type":"WebPage","description":"The personal website of Stephan Schauberger — thoughts, projects, gaming tools, and music.","name":"Welcome","url":"https://schaubes.dev/gaming","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/gaming"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Privacy Policy
+- **Source:** https://schaubes.dev/privacy
+- **Description:** Information about how personal data is processed on this website.
+
+In the following privacy policy we inform you about the most important aspects of data processing on our website. We collect and process personal data only on the basis of the legal provisions (DSGVO, TKG).
+
+As soon as you access or visit our website as a user, your IP address and the beginning and end of the session are recorded. This is technically required and therefore constitutes a legitimate interest as of Art. 6 para 1 lit f DSGVO.
+
+#### Contact with us
+
+If you contact us, either via our contact form on our website or by email, then the data you send us will be stored for six months for the purpose of processing your request or in case of further follow-up questions. There is, without your consent, no disclosure of your transmitted data.
+
+#### Cookies
+
+Our website uses so-called cookies. These are small text files that are stored on your end device with the help of the browser. They do not cause any damage. Some cookies remain stored on your end device until you delete them. They enable us to recognize your browser on your next visit.
+
+We use cookies to make our website user-friendly. In the case of cookies that are not functionally necessary, we request your consent in the cookie window (Art. 6 para 1 lit a DSGVO). Only if it is actively given, your personal data will then be processed for the purpose of user-friendliness of our website.
+
+If you do not wish cookies to be set, you can set up your browser so that it informs you about the setting of cookies and only allows this in individual cases. When deactivating cookies, the functionality of our website may be limited.
+
+#### Your rights as an affected party
+
+As an affected party, you have a fundamental right with regard to your data stored by us for:
+
+- Information
+- Deletion of the data
+- Correction of the data
+- Transferability of the data
+- Revocation and objection to data processing
+- Restriction
+
+If you suspect that in the course of processing your data violations of data protection law have occurred, you have the opportunity to complain to us or the data protection authority.
+
+#### How to reach us
+
+Website owner: <c-config var="site.owner">
+
+
+
+</c-config>
+
+<br />
+
+
+Email: <c-contact type="email">
+
+
+
+</c-contact>
+
+<br />
+
+
+Phone: <c-contact type="phone">
+
+
+
+</c-contact>
+
+---
+
+- **Page:** schaubes.dev
+- **Source:** https://schaubes.dev/status
+
+# ✅
+
+## Status OK
+
+[**Back to Home**](https://schaubes.dev/)
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"en-US","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"workTranslation":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/status#webpage","@type":"WebPage","url":"https://schaubes.dev/status","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/status"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** schaubes.dev
+- **Source:** https://schaubes.dev/de/status
+
+# ✅
+
+## Status OK
+
+[**Zurück zur Startseite**](https://schaubes.dev/de)
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de/status#webpage","@type":"WebPage","url":"https://schaubes.dev/de/status","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de/status"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Willkommen – schaubes.dev
+- **Source:** https://schaubes.dev/de
+- **Description:** Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.
+
+# **Willkommen**
+
+Gedanken, Projekte, Gaming & Musik
+
+Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.
+
+[Alle](https://schaubes.dev/de) [Gaming](https://schaubes.dev/de/gaming) [Gesundheit](https://schaubes.dev/de/health) [Finanzen](https://schaubes.dev/de/finance)
+
+InvestitionsrechnerFinanzen · 6. Aug. 2026
+
+Berechne, wie sich eine Einmalanlage, ein monatlicher Sparplan oder beides über die Zeit entwickeln — nach Gebühren, Steuern und Inflation.
+
+[InvestitionsrechnerFinanzen · 6. Aug. 2026](https://schaubes.dev/de/finance/investitionsrechner)
+
+Kalorien- & BMI-RechnerGesundheit · 9. Juli 2026
+
+Berechne deinen Body-Mass-Index und deinen täglichen Kalorienbedarf.
+
+[Kalorien- & BMI-RechnerGesundheit · 9. Juli 2026](https://schaubes.dev/de/health/kalorien-bmi-rechner)
+
+![Stardew Markt](https://schaubes.dev/media/gaming/stardew-valley/logo.png)
+
+Stardew MarktGaming · 26. Juni 2026
+
+Plane deine Feldfrüchte und Tiere für den besten Gewinn und finde heraus, wo es gerade beißt.
+
+[Stardew MarktGaming · 26. Juni 2026](https://schaubes.dev/de/gaming/stardew-valley-markt)
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de#webpage","@type":"WebPage","description":"Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.","name":"Willkommen","url":"https://schaubes.dev/de","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Kalorien- &amp; BMI-Rechner – schaubes.dev
+- **Source:** https://schaubes.dev/de/health/kalorien-bmi-rechner
+- **Description:** Berechne deinen Body-Mass-Index und deinen täglichen Kalorienbedarf.
+
+# **Kalorien- & BMI-Rechner**
+
+Berechne deinen Body-Mass-Index und deinen täglichen Kalorienbedarf.
+
+##### **Einheiten**
+
+##### **Geschlecht**
+
+##### **Alter**
+
+##### **Größe (cm) **
+
+##### **Gewicht (kg) **
+
+##### **Aktivitätslevel**
+
+##### **Ergebnisse**
+
+BMI
+
+**24.5**
+
+Normalgewicht
+
+Body-Mass-Index — Gewicht im Verhältnis zur Größe, ein grober Richtwert für den Körperfettanteil.
+
+Der Normalbereich liegt bei 18,5-24,9.
+
+Grundumsatz
+
+**1699 kcal**
+
+Der Grundumsatz gibt an, wie viele Kalorien dein Körper in Ruhe für lebenswichtige Funktionen verbraucht. Berechnet mit der Mifflin-St-Jeor-Formel aus Gewicht, Größe, Alter und Geschlecht.
+
+Erhaltungskalorien (TDEE)
+
+**2633 kcal**
+
+Gesamtumsatz (TDEE) — geschätzter Kalorienbedarf, um dein aktuelles Gewicht zu halten. Berechnet, indem dein Grundumsatz mit einem Aktivitätsfaktor multipliziert wird.
+
+##### **Makronährstoffe**
+
+Eiweiß
+
+**120 g**
+
+Baut Muskeln auf und repariert sie. Berechnet aus deinem Körpergewicht und Aktivitätslevel (1,2-2,0 g/kg/Tag), bei Frauen leicht reduziert, da sie im Schnitt einen höheren Körperfettanteil im Verhältnis zur Muskelmasse haben.
+
+Fett
+
+**82 g**
+
+Unterstützt Hormone und Nährstoffaufnahme. Erhält einen Anteil der nach dem Eiweiß verbleibenden Kalorien, gemäß allgemeinen Ernährungsrichtlinien (etwa 20-35 % der Gesamtkalorien).
+
+Kohlenhydrate
+
+**353 g**
+
+Die wichtigste Energiequelle deines Körpers. Erhält die nach Eiweiß und Fett verbleibenden Kalorien, gemäß allgemeinen Ernährungsrichtlinien (etwa 45-65 % der Gesamtkalorien).
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de/health/kalorien-bmi-rechner#webpage","@type":"WebPage","description":"Berechne deinen Body-Mass-Index und deinen täglichen Kalorienbedarf.","name":"Kalorien- & BMI-Rechner","url":"https://schaubes.dev/de/health/kalorien-bmi-rechner","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de/health/kalorien-bmi-rechner"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Willkommen – schaubes.dev
+- **Source:** https://schaubes.dev/de/gaming
+- **Description:** Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.
+
+# **Willkommen**
+
+Gedanken, Projekte, Gaming & Musik
+
+Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.
+
+[Alle](https://schaubes.dev/de) [Gaming](https://schaubes.dev/de/gaming) [Gesundheit](https://schaubes.dev/de/health) [Finanzen](https://schaubes.dev/de/finance)
+
+![Stardew Markt](https://schaubes.dev/media/gaming/stardew-valley/logo.png)
+
+Stardew MarktGaming · 26. Juni 2026
+
+Plane deine Feldfrüchte und Tiere für den besten Gewinn und finde heraus, wo es gerade beißt.
+
+[Stardew MarktGaming · 26. Juni 2026](https://schaubes.dev/de/gaming/stardew-valley-markt)
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de/gaming#webpage","@type":"WebPage","description":"Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.","name":"Willkommen","url":"https://schaubes.dev/de/gaming","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de/gaming"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Willkommen – schaubes.dev
+- **Source:** https://schaubes.dev/de/finance
+- **Description:** Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.
+
+# **Willkommen**
+
+Gedanken, Projekte, Gaming & Musik
+
+Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.
+
+[Alle](https://schaubes.dev/de) [Gaming](https://schaubes.dev/de/gaming) [Gesundheit](https://schaubes.dev/de/health) [Finanzen](https://schaubes.dev/de/finance)
+
+InvestitionsrechnerFinanzen · 6. Aug. 2026
+
+Berechne, wie sich eine Einmalanlage, ein monatlicher Sparplan oder beides über die Zeit entwickeln — nach Gebühren, Steuern und Inflation.
+
+[InvestitionsrechnerFinanzen · 6. Aug. 2026](https://schaubes.dev/de/finance/investitionsrechner)
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de/finance#webpage","@type":"WebPage","description":"Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.","name":"Willkommen","url":"https://schaubes.dev/de/finance","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de/finance"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Investitionsrechner – schaubes.dev
+- **Source:** https://schaubes.dev/de/finance/investitionsrechner
+- **Description:** Berechne, wie sich eine Einmalanlage, ein monatlicher Sparplan oder beides über die Zeit entwickeln — nach Gebühren, Steuern und Inflation.
+
+# **Investitionsrechner**
+
+Berechne, wie sich eine Einmalanlage, ein monatlicher Sparplan oder beides über die Zeit entwickeln — nach Gebühren, Steuern und Inflation.
+
+##### **Investition**
+
+**Einmalanlage**
+
+**Monatliche Rate**
+
+**Erwartete Jahresrendite**
+
+**Laufzeit**
+
+##### **Gebühren & Steuern**
+
+**Kaufgebühr**
+
+**Verkaufsgebühr**
+
+**Kapitalertragsteuer**
+
+**Inflation**
+
+##### **Ergebnisse**
+
+Endwert
+
+**122.291 €**
+
+Nettogewinn **+57.291 €**(88,1 %)
+
+<dl>
+
+<dt>Depotwert</dt>
+<dd>144.746 €</dd>
+
+<dt>− Verkaufsgebühr</dt>
+<dd>−724 €</dd>
+
+<dt>− Steuer</dt>
+<dd>−21.731 €</dd>
+
+<dt>= Endwert</dt>
+<dd>122.291 €</dd>
+
+</dl><dl>
+
+<dt>Eingezahlt</dt>
+<dd>65.000 €</dd>
+
+<dt>Gebühren gesamt</dt>
+<dd>1.699 €</dd>
+<dd>975 € Kauf + 724 € Verkauf</dd>
+
+<dt>Effektive Jahresrendite</dt>
+<dd>5,5 %</dd>
+
+<dt>Wert in heutigem Geld</dt>
+<dd>82.298 €</dd>
+
+</dl>
+
+##### **Entwicklung über die Zeit**
+
+Depotwert Eingezahlt
+
+0 €36.186 €72.373 €108.559 €144.746 €048121620
+
+Jahre
+
+Nur Schätzwerte auf Basis einer konstanten Durchschnittsrendite. Echte Märkte schwanken, und dies ist keine Finanzberatung.
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de/finance/investitionsrechner#webpage","@type":"WebPage","description":"Berechne, wie sich eine Einmalanlage, ein monatlicher Sparplan oder beides über die Zeit entwickeln — nach Gebühren, Steuern und Inflation.","name":"Investitionsrechner","url":"https://schaubes.dev/de/finance/investitionsrechner","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de/finance/investitionsrechner"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Willkommen – schaubes.dev
+- **Source:** https://schaubes.dev/de/health
+- **Description:** Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.
+
+# **Willkommen**
+
+Gedanken, Projekte, Gaming & Musik
+
+Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.
+
+[Alle](https://schaubes.dev/de) [Gaming](https://schaubes.dev/de/gaming) [Gesundheit](https://schaubes.dev/de/health) [Finanzen](https://schaubes.dev/de/finance)
+
+Kalorien- & BMI-RechnerGesundheit · 9. Juli 2026
+
+Berechne deinen Body-Mass-Index und deinen täglichen Kalorienbedarf.
+
+[Kalorien- & BMI-RechnerGesundheit · 9. Juli 2026](https://schaubes.dev/de/health/kalorien-bmi-rechner)
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de/health#webpage","@type":"WebPage","description":"Die persönliche Webseite von Stephan Schauberger — Gedanken, Projekte, Gaming-Tools und Musik.","name":"Willkommen","url":"https://schaubes.dev/de/health","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de/health"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Stardew Markt – schaubes.dev
+- **Source:** https://schaubes.dev/de/gaming/stardew-valley-markt
+- **Description:** Plane deine Feldfrüchte und Tiere für den besten Gewinn und finde heraus, wo es gerade beißt.
+
+# **Stardew Markt**
+
+Plane deine Feldfrüchte und Tiere für den besten Gewinn und finde heraus, wo es gerade beißt.
+
+Wird vollständig in deinem Browser verarbeitet — dein Spielstand wird nirgendwo hochgeladen.
+
+##### **Jahreszeit**
+
+##### **Tag**
+
+##### **Jahr**
+
+##### **Felder**
+
+**Durchschnitt pro Feld**
+
+##### **Dünger**
+
+##### **Qualität**
+
+##### **Optionen**
+
+**Gewächshaus**
+
+Feldfrüchte wachsen hier ganzjährig, unabhängig von der oben gewählten Jahreszeit.
+
+**Saatgut aus Ernte wiederverwenden**
+
+Nutzt die Samenpresse, um einen Teil der Ernte in neues Saatgut umzuwandeln. Gilt nur für Feldfrüchte, die nicht nachwachsen.
+
+**Saatgut vorhanden**
+
+**Nur eine Ernte**
+
+##### **Strategie**
+
+##### **Filter**
+
+**Uralte Frucht ausblenden**
+
+##### **Sortierung**
+
+**Aufsteigend**
+
+![Uralte Frucht](https://schaubes.dev/media/gaming/stardew-valley/crops/Ancient_Fruit.png)
+
+##### **Uralte Frucht **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **13.200 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 171,43 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Hopfen](https://schaubes.dev/media/gaming/stardew-valley/crops/Hops.png)
+
+##### **Hopfen **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **5.040 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 186,67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 8400%
+
+![Sternfrucht](https://schaubes.dev/media/gaming/stardew-valley/crops/Starfruit.png)
+
+##### **Sternfrucht **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **3.700 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 142,31 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 463%
+
+![Weizen](https://schaubes.dev/media/gaming/stardew-valley/crops/Wheat.png)
+
+##### **Weizen **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **2.470 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 47,5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1900%
+
+![Preiselbeeren](https://schaubes.dev/media/gaming/stardew-valley/crops/Cranberries.png)
+
+##### **Preiselbeeren **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **2.010 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 74,44 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 838%
+
+![Süße Edelsteinbeere](https://schaubes.dev/media/gaming/stardew-valley/crops/Sweet_Gem_Berry.png)
+
+##### **Süße Edelsteinbeere **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Ernte
+
+**Gewinn: **2.000 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 83,33 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 200%
+
+![Ananas](https://schaubes.dev/media/gaming/stardew-valley/crops/Pineapple.png)
+
+##### **Ananas **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **1.800 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 85,71 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Blaubeere](https://schaubes.dev/media/gaming/stardew-valley/crops/Blueberry.png)
+
+##### **Blaubeere **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **1.720 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 68,8 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 2150%
+
+![Erdbeere](https://schaubes.dev/media/gaming/stardew-valley/crops/Strawberry.png)
+
+##### **Erdbeere **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **1.700 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 70,83 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1700%
+
+![Mais](https://schaubes.dev/media/gaming/stardew-valley/crops/Corn.png)
+
+##### **Mais **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **1.500 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 27,78 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1000%
+
+![Rotkohl](https://schaubes.dev/media/gaming/stardew-valley/crops/Red_Cabbage.png)
+
+##### **Rotkohl ****Verfügbar ab Jahr 2**
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **1.455 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 53,89 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 485%
+
+![Traube](https://schaubes.dev/media/gaming/stardew-valley/crops/Grape.png)
+
+##### **Traube **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **1.380 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 55,2 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 2300%
+
+![Melone](https://schaubes.dev/media/gaming/stardew-valley/crops/Melon.png)
+
+##### **Melone **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **1.340 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 55,83 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 838%
+
+![Kürbis](https://schaubes.dev/media/gaming/stardew-valley/crops/Pumpkin.png)
+
+##### **Kürbis **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **1.240 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 47,69 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 620%
+
+![Kaktusfrucht](https://schaubes.dev/media/gaming/stardew-valley/crops/Cactus_Fruit.png)
+
+##### **Kaktusfrucht **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **1.200 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 44,44 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 800%
+
+![Rhabarber](https://schaubes.dev/media/gaming/stardew-valley/crops/Rhubarb.png)
+
+##### **Rhabarber **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **1.120 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 43,08 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 560%
+
+![Sommerkürbis](https://schaubes.dev/media/gaming/stardew-valley/crops/Summer_Squash.png)
+
+##### **Sommerkürbis **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **1.120 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 41,48 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Karotte](https://schaubes.dev/media/gaming/stardew-valley/crops/Carrot.png)
+
+##### **Karotte **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **1.080 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 40 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Artischocke](https://schaubes.dev/media/gaming/stardew-valley/crops/Artichoke.png)
+
+##### **Artischocke ****Verfügbar ab Jahr 2**
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **1.020 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 42,5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1133%
+
+![Peperoni](https://schaubes.dev/media/gaming/stardew-valley/crops/Hot_Pepper.png)
+
+##### **Peperoni **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **1.000 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 38,46 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 2500%
+
+![Pak Choi](https://schaubes.dev/media/gaming/stardew-valley/crops/Bok_Choy.png)
+
+##### **Pak Choi **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **960 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 40 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 320%
+
+![Brokkoli](https://schaubes.dev/media/gaming/stardew-valley/crops/Broccoli.png)
+
+##### **Brokkoli **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **950 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 39,58 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Rübe](https://schaubes.dev/media/gaming/stardew-valley/crops/Beet.png)
+
+##### **Rübe **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **920 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 38,33 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1150%
+
+![Tomate](https://schaubes.dev/media/gaming/stardew-valley/crops/Tomato.png)
+
+##### **Tomate **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **842,5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 31,2 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1685%
+
+![Amarant](https://schaubes.dev/media/gaming/stardew-valley/crops/Amaranth.png)
+
+##### **Amarant **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **840 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 40 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 400%
+
+![Aubergine](https://schaubes.dev/media/gaming/stardew-valley/crops/Eggplant.png)
+
+##### **Aubergine **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **830 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 33,2 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 4150%
+
+![Grünkohl](https://schaubes.dev/media/gaming/stardew-valley/crops/Kale.png)
+
+##### **Grünkohl **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **800 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 33,33 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 286%
+
+![Knoblauch](https://schaubes.dev/media/gaming/stardew-valley/crops/Garlic.png)
+
+##### **Knoblauch ****Verfügbar ab Jahr 2**
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **780 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 32,5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 325%
+
+![Rettich](https://schaubes.dev/media/gaming/stardew-valley/crops/Radish.png)
+
+##### **Rettich **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **760 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 31,67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 475%
+
+![Tarowurzel](https://schaubes.dev/media/gaming/stardew-valley/crops/Taro_Root.png)
+
+##### **Tarowurzel **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **750 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 35,71 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Grüne Bohne](https://schaubes.dev/media/gaming/stardew-valley/crops/Green_Bean.png)
+
+##### **Grüne Bohne **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **720 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 28,8 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 1200%
+
+![Blumenkohl](https://schaubes.dev/media/gaming/stardew-valley/crops/Cauliflower.png)
+
+##### **Blumenkohl **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **640 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 26,67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 400%
+
+![Kartoffel](https://schaubes.dev/media/gaming/stardew-valley/crops/Potato.png)
+
+##### **Kartoffel **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **640 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 26,67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 320%
+
+![Yamswurzel](https://schaubes.dev/media/gaming/stardew-valley/crops/Yam.png)
+
+##### **Yamswurzel **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **620 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 31 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 517%
+
+![Pastinake](https://schaubes.dev/media/gaming/stardew-valley/crops/Parsnip.png)
+
+##### **Pastinake **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **600 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 25 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 500%
+
+![Pudermelone](https://schaubes.dev/media/gaming/stardew-valley/crops/Powdermelon.png)
+
+##### **Pudermelone **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **540 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 25,71 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -
+
+![Ungemahlener Reis](https://schaubes.dev/media/gaming/stardew-valley/crops/Unmilled_Rice.png)
+
+##### **Ungemahlener Reis **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Glas
+
+**Gewinn: **280 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 11,67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 175%
+
+![Kaffeebohne](https://schaubes.dev/media/gaming/stardew-valley/crops/Coffee_Bean.png)
+
+##### **Kaffeebohne **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Fass
+
+**Gewinn: **260 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 4,81 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 10%
+
+![Feenrose](https://schaubes.dev/media/gaming/stardew-valley/crops/Fairy_Rose.png)
+
+##### **Feenrose **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Ernte
+
+**Gewinn: **180 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 7,5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 45%
+
+![Mohn](https://schaubes.dev/media/gaming/stardew-valley/crops/Poppy.png)
+
+##### **Mohn **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Ernte
+
+**Gewinn: **120 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 5,71 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 40%
+
+![Sommerblume](https://schaubes.dev/media/gaming/stardew-valley/crops/Summer_Spangle.png)
+
+##### **Sommerblume **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Ernte
+
+**Gewinn: **120 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 5 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 80%
+
+![Jazzblume](https://schaubes.dev/media/gaming/stardew-valley/crops/Blue_Jazz.png)
+
+##### **Jazzblume **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Ernte
+
+**Gewinn: **60 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 2,86 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 67%
+
+![Tulpe](https://schaubes.dev/media/gaming/stardew-valley/crops/Tulip.png)
+
+##### **Tulpe **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Ernte
+
+**Gewinn: **40 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: 1,67 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: 50%
+
+![Sonnenblume](https://schaubes.dev/media/gaming/stardew-valley/crops/Sunflower.png)
+
+##### **Sonnenblume **
+
+![Spring](https://schaubes.dev/media/gaming/stardew-valley/Season_Spring.png)![Summer](https://schaubes.dev/media/gaming/stardew-valley/Season_Summer.png)![Fall](https://schaubes.dev/media/gaming/stardew-valley/Season_Fall.png)![Winter](https://schaubes.dev/media/gaming/stardew-valley/Season_Winter.png)
+
+Strategie: Ernte
+
+**Gewinn: **-720 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+Gewinn / T: -15 ![g](https://schaubes.dev/media/gaming/stardew-valley/Gold.png)
+
+ROI: -60%
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de/gaming/stardew-valley-markt#webpage","@type":"WebPage","description":"Plane deine Feldfrüchte und Tiere für den besten Gewinn und finde heraus, wo es gerade beißt.","name":"Stardew Markt","url":"https://schaubes.dev/de/gaming/stardew-valley-markt","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de/gaming/stardew-valley-markt"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Über mich – schaubes.dev
+- **Source:** https://schaubes.dev/de/ueber-mich
+- **Description:** Ein paar Worte über Stephan Schauberger.
+
+# **Über mich**
+
+# **Über mich**
+
+Ich bin Stephan Schauberger — auf dieser Seite teile ich Gedanken, Projekte, Gaming-Tools und irgendwann auch Musik.
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de/ueber-mich#webpage","@type":"WebPage","description":"Ein paar Worte über Stephan Schauberger.","name":"Über mich","url":"https://schaubes.dev/de/ueber-mich","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de/ueber-mich"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Kontakt – schaubes.dev
+- **Source:** https://schaubes.dev/de/kontakt
+- **Description:** Kontakt per E-Mail.
+
+# **Kontakt**
+
+##### Sie erreichen uns unter folgenden Kontaktdaten
+
+Webseitenbetreiber: Stephan Schauberger  
+ E-Mail: [**stephan.schauberger@gmail.com**](mailto:stephan.schauberger@gmail.com)
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de/kontakt#webpage","@type":"WebPage","description":"Kontakt per E-Mail.","name":"Kontakt","url":"https://schaubes.dev/de/kontakt","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de/kontakt"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Impressum – schaubes.dev
+- **Source:** https://schaubes.dev/de/impressum
+- **Description:** Rechtliche Informationen zu dieser Website.
+
+# **Impressum**
+
+Das hier ist das Impressum von schaubes.dev.
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de/impressum#webpage","@type":"WebPage","description":"Rechtliche Informationen zu dieser Website.","name":"Impressum","url":"https://schaubes.dev/de/impressum","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de/impressum"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
+---
+
+- **Page:** Datenschutz – schaubes.dev
+- **Source:** https://schaubes.dev/de/datenschutz
+- **Description:** Informationen zur Verarbeitung personenbezogener Daten auf dieser Website.
+
+# **Datenschutz**
+
+In folgender Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Webseite. Wir erheben und verarbeiten personenbezogene Daten nur auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG).
+
+Sobald Sie als Benutzer auf unsere Webseite zugreifen oder diese besuchen wird Ihre IP-Adresse sowie Beginn und Ende der Sitzung erfasst. Dies ist technisch bedingt und stellt somit ein berechtigtes Interesse iSv Art 6 Abs 1 lit f DSGVO.
+
+#### Kontakt mit uns
+
+Wenn Sie uns, entweder über unser Kontaktformular auf unserer Webseite oder per Email kontaktieren, dann werden die von Ihnen an uns übermittelten Daten zwecks Bearbeitung Ihrer Anfrage oder für den Fall von weiteren Anschlussfragen für sechs Monate bei uns gespeichert. Es erfolgt, ohne Ihre Einwilligung, keine Weitergabe Ihrer übermittelten Daten.
+
+#### Cookies
+
+Unsere Website verwendet so genannte Cookies. Dabei handelt es sich um kleine Textdateien, die mit Hilfe des Browsers auf Ihrem Endgerät abgelegt werden. Sie richten keinen Schaden an. Einige Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese löschen. Sie ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.
+
+Wir nutzen Cookies dazu, unseren Webauftritt nutzerfreundlich zu gestalten. Bei nicht funktionsbedingt erforderlichen Cookies ersuchen wir im Cookie-Fenster um Ihre Einwilligung (Art 6 Abs 1 lit a DSGVO). Nur wenn diese aktiv gegeben wird, werden dann Ihre personenbezogenen Daten zum Zweck der Nutzerfreundlichkeit unseres Webauftrittes verarbeitet.
+
+Wenn Sie das Setzen von Cookies nicht wünschen, so können Sie Ihren Browser so einrichten, dass er Sie über das Setzen von Cookies informiert und dies nur im Einzelfall erlauben. Bei der Deaktivierung von Cookies kann die Funktionalität unserer Website eingeschränkt sein.
+
+#### Ihre Rechte als Betroffener
+
+Sie als Betroffener haben bezüglich Ihrer Daten, welche bei uns gespeichert sind grundsätzlich ein Recht auf:
+
+- Auskunft
+- Löschung der Daten
+- Berichtigung der Daten
+- Übertragbarkeit der Daten
+- Wiederruf und Widerspruch zur Datenverarbeitung
+- Einschränkung
+
+Wenn sie vermuten, dass im Zuge der Verarbeitung Ihrer Daten Verstöße gegen das Datenschutzrecht passiert sind, so haben Sie die Möglichkeit sich bei uns oder der Datenschutzbehörde zu beschweren.
+
+#### Sie erreichen uns unter folgenden Kontaktdaten
+
+Webseitenbetreiber: Stephan Schauberger  
+ E-Mail: [**stephan.schauberger@gmail.com**](mailto:stephan.schauberger@gmail.com)  
+ Telefon:
+
+```json
+{"@context":"https://schema.org","@graph":[{"@id":"https://schaubes.dev/#website","@type":"WebSite","inLanguage":"de-DE","name":"schaubes.dev","url":"https://schaubes.dev/","publisher":{"@id":"https://schaubes.dev/#identity"},"translationOfWork":{"@id":"https://schaubes.dev/#website"}},{"@id":"https://schaubes.dev/de/datenschutz#webpage","@type":"WebPage","description":"Informationen zur Verarbeitung personenbezogener Daten auf dieser Website.","name":"Datenschutz","url":"https://schaubes.dev/de/datenschutz","isPartOf":{"@id":"https://schaubes.dev/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://schaubes.dev/de/datenschutz"]}]},{"@id":"https://schaubes.dev/#identity","@type":"Person","name":"schaubes.dev","url":"https://schaubes.dev"}]}
+```
+
