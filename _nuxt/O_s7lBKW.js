@@ -1,0 +1,1 @@
+import{mt as e,qt as t,v as n,xt as r}from"./DVRkMeDb.js";import{n as i,t as a}from"./DPDef9BX.js";var o={};function s(a,o){let s=i;return e(),n(s,{class:`min-h-screen`},{default:t(()=>[r(a.$slots,`default`)]),_:3})}var c=a(o,[[`render`,s]]);export{c as default};
