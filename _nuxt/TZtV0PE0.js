@@ -1,1 +1,0 @@
-import{n as e}from"./BeNf6Zg6.js";function t(){let t=e().ui?.prefix;return e=>!t||!e?e:e.split(/\s+/).filter(Boolean).map(e=>`${t}:${e}`).join(` `)}export{t};
