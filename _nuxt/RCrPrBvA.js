@@ -1,0 +1,1 @@
+import{n as e,t}from"./GUXMZ9xH.js";import{U as n,p as r,q as i,ut as a}from"./D94JxJFM.js";var o={};function s(t,o){let s=e;return n(),r(s,{class:`min-h-screen`},{default:a(()=>[i(t.$slots,`default`)]),_:3})}var c=t(o,[[`render`,s]]);export{c as default};
